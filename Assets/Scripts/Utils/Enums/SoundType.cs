@@ -1,0 +1,26 @@
+public enum SoundType
+{
+    Button_Click,
+    Menu_swipe,
+    Menu_Swipe2,
+    ColorMatch_Pick,
+    ColorMatch_Press1,
+    ColorMatch_Press2,
+    ColorMatch_WrongPress,
+    Puzzle_Pick,
+    Puzzle_Separate,
+    Puzzle_Put,
+    Puzzle_Finish,
+    Silhouette_Press,
+    Silhouette_Press2,
+    Silhouette_Salto,
+    Silhouette_WrongPress,
+    Silhouette_WrongPress2,
+    ColoringBook_ColorChanging,
+    ColoringBook_Coloring,
+    ColoringBook_WrongColor,
+    ColoringBook_Complete,
+    Star_Menu,
+    Star_Win,
+    Star_Finish
+}
